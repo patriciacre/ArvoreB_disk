@@ -1,5 +1,7 @@
 # ArvoreB_disk
 
+Trabalho desenvolvido junto com Letícia Moreira Leonel: https://github.com/moreiraleticial
+
 O trabalho consiste na implementação de uma Árvore B em disco, desenvolvido para a disciplina de Técnicas de Programação do curso Bacharelado em Engenharia de Computação do IFMG campus Bambuí. 
 Segundo o enunciado disponibilizado pelo professor, Samuel Pereira Dias, a árvore B em disco é um arquivo tipado em que cada página é armazenada como um registro do arquivo. O programa armazena um conjunto de objetos do TAD (tipo abstrato de dados) serialCurrency na árvore B, com o armazenamento de cada página da árvore em um registro de arquivo tipado, conforme visto na disciplina. A árvore tem grau mínimo t = 3. O tipo serialCurrency é um tipo de dados serializável. Seu conteúdo é um valor de ponto fixo, com duas casas decimais, no formato x.y, sendo x a parte inteira, com qualquer número de dígitos, e y a parte fracionária, com exatamente 2 dígitos. Podendo assumir valores positivos ou negativos.
 
